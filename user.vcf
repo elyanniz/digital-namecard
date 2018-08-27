@@ -2,13 +2,13 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+FN: MD Derus  Adi 
+ORG:Motive Interactive Sdn. Bhd.;
+TITLE:Managing Director\n Data Science Division
+EMAIL;type=INTERNET;type=WORK;type=pref:adi@mtve.io
+TEL;type=WORK;type=VOICE:+60 19301 6288
+item1.ADR;type=WORK;type=pref:;;1 T3-10-05, Icon City\nJalan SS8/39\, 47300 Petaling Jaya.
+item1.X-ABADR:MY
+item2.URL;type=pref:mtve.io
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD

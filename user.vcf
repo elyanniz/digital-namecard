@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Samsudin; Ely;;
+FN: Ely Samsudin 
+ORG:Motive Interactive Sdn. Bhd.;
+TITLE:Creative Director
+EMAIL;type=INTERNET;type=WORK;type=pref:ely@mtve.io
+TEL;type=WORK;type=VOICE:+60 19301 6288
+item1.ADR;type=WORK;type=pref:;;E-13-15, Pacific Place Commercial Centre\nJalan PJU 1A/4\nAra Damansara\n47300 Petaling Jaya.
+item1.X-ABADR:MY
+item2.URL;type=pref:mtve.io
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
